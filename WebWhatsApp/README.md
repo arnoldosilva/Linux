@@ -1,9 +1,15 @@
 # How install Web WhatsApp on linux
+
 ## Install Nativefier
+
 $ yarn global add nativefier
+
 ## Download Injection
+
 [inj.js](inj.js)
+
 ## Run this command at same folder of [inj.js](inj.js)
+
 $ nativefier \
 -n "WhatsApp" \
 --counter \
