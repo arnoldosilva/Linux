@@ -3,7 +3,7 @@
 $ yarn global add nativefier
 ## Download Injection
 [inj.js](inj.js)
-## Run Command
+## Run this command on same folder of [inj.js](inj.js)
 $ nativefier \
 -n "WhatsApp" \
 --counter \
